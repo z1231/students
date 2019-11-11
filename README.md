@@ -8,3 +8,4 @@ blue to D;
 
 red to C;
 
+red to M;
